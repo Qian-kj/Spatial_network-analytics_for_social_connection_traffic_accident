@@ -27,7 +27,7 @@ research_area = research_edges.unary_union.convex_hull.area # Get sized area of 
 print('The area of research graph is {} square meters.'.format(research_area))
 
 # read data sets of accidents from 2015 to 2019
-DATA_PATH = "E:/KCL/Network data analysis/Coursework_2/data_NDA/"
+DATA_PATH = "data_NDA/"
 FILE_NAMES = [ "2015.csv", "2016.csv", "2017.csv", "2018.csv", "2019.csv"]
 
 # use the Grid reference: Northing and Easting in the data
